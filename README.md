@@ -1,6 +1,7 @@
 # app-starters-actix-web
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Repository size](https://img.shields.io/github/repo-size/kamaslau/app-starters-actix-web?color=56BEB8)
 
 Rust app starter with [Actix Web](https://actix.rs/): one route, a manifest that compiles, room for the rest.
 
